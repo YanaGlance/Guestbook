@@ -1,0 +1,27 @@
+.main-main {
+	width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+table {
+        width: 50%;
+        margin-right: auto;
+	margin-left: auto;
+}
+
+body {
+	background:url('drzewo.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+p {
+        width: 30%;
+        margin-right: auto;
+	margin-left: auto;
+        color: #556B2F;
+        font-size:20px;
+}
+
+	
